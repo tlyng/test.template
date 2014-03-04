@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from test.template.testing import FUNCTIONAL_TESTING
 from plone.testing import layered
 
