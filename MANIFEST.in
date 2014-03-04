@@ -1,0 +1,6 @@
+include *.rst
+
+graft src/test
+recursive-include docs LICENSE.*
+
+global-exclude *.pyc
