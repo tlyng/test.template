@@ -2,6 +2,12 @@
 test.template
 ====================
 
+.. image:: https://travis-ci.org/tlyng/test.template.png?branch=master
+    :target: http://travis-ci.org/tlyng/test.template
+
+.. image:: https://coveralls.io/repos/tlyng/test.template/badge.png?branch=master
+    :target: https://coveralls.io/r/tlyng/test.template
+
 A Plone add-on that ...
 
 * `Source code @ GitHub <https://github.com/tlyng/test.template>`_
