@@ -8,6 +8,9 @@ test.template
 .. image:: https://coveralls.io/repos/tlyng/test.template/badge.png?branch=master
     :target: https://coveralls.io/r/tlyng/test.template
 
+.. image:: https://gemnasium.com/tlyng/test.template.png
+    :target: https://gemnasium.com/tlyng/test.template
+
 A Plone add-on that ...
 
 * `Source code @ GitHub <https://github.com/tlyng/test.template>`_
