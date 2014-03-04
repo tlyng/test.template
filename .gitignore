@@ -22,3 +22,6 @@ lib/
 parts/
 var/
 local.cfg
+log.html
+output.xml
+report.html
